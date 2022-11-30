@@ -48,6 +48,6 @@ async def slash3(interaction: discord.Interaction):
 
 
 aclient.run(
-    'MTA0NjgzMjI0MTE3MjU1Nzg3NA.GxTMbP.ld3O5P_opImv-lAv9OuYzeuhiXn5LTOgxnQtC4')
+    'seu token')
 
 #Obs: NÃO compartilhe este token com NINGUEM que voce gerar.
